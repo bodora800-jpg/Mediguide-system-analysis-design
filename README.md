@@ -33,3 +33,19 @@ MediGuide is a proposed pharmacy platform designed to help users find nearby pha
 - View medication ratings and reviews.
 
 - Maintain user health and prescription information.
+
+  ## Skills Demonstrated
+
+- Systems Analysis and Design
+
+- Requirements Analysis
+
+- UML Modeling
+
+- Domain Model Class Diagrams
+
+- Sequence Diagrams
+
+- Business Requirements
+
+- Team Collaboration and Coordination
