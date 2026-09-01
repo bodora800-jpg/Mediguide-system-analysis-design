@@ -21,3 +21,15 @@ MediGuide is a proposed pharmacy platform designed to help users find nearby pha
 ## Sequence Diagram – Add a Payment Method
 
 ![MediGuide Sequence Diagram](mediguide_sequence_diagram.jpg)
+
+## Key System Capabilities
+
+- Find nearby pharmacies with the required medication.
+
+- View alternative medications.
+
+- Find pharmacies that accept the user's insurance.
+
+- View medication ratings and reviews.
+
+- Maintain user health and prescription information.
