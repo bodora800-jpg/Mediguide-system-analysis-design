@@ -17,3 +17,7 @@ MediGuide is a proposed pharmacy platform designed to help users find nearby pha
 ## Domain Model Class Diagram
 
 ![MediGuide Domain Model](mediguide_domain_model.jpg)
+
+## Sequence Diagram – Add a Payment Method
+
+![MediGuide Sequence Diagram](mediguide_sequence_diagram.jpg)
